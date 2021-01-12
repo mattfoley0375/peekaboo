@@ -1,0 +1,25 @@
+#walrus-showing {
+  display: none;
+}
+
+.walrusClickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.walrusClickable:hover {
+  text-decoration: underline;
+}
+
+#seal-showing {
+  display: none;
+}
+
+.sealClickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.sealClickable:hover {
+  text-decoration: underline;
+}
